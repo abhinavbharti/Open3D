@@ -34,3 +34,6 @@
 [submodule "3rdparty/benchmark"]
 	path = 3rdparty/benchmark
 	url = https://github.com/google/benchmark.git
+[submodule "3rdparty/librealsense2"]
+	path = 3rdparty/librealsense2
+	url = https://github.com/IntelRealSense/librealsense.git
